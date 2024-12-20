@@ -1,0 +1,14 @@
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\bin\Debug\SuperMarket_ManagmentSstem.exe.config
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\bin\Debug\SuperMarket_ManagmentSstem.exe
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\bin\Debug\SuperMarket_ManagmentSstem.pdb
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.csproj.AssemblyReference.cache
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.Form1.resources
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.Properties.Resources.resources
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.csproj.GenerateResource.cache
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.exe
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.pdb
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.UserOrder.resources
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.GuestForm.resources
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.ItemForm.resources
+C:\Users\Faizan\Desktop\SuperMarket\SuperMarket_ManagmentSstem\SuperMarket_ManagmentSstem\obj\Debug\SuperMarket_ManagmentSstem.UserForm.resources
